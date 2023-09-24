@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Pooyan Rahmanzadehgervi"
 title_separator          : "-"
-name                     : "Pooyan Rahmanzadehgervi"
-description              :
+name                     : &name "Pooyan Rahmanzadehgervi"
+description              : &description ""
 url                      : https://pooyanrg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pooyanrg/pooyanrg.github.io"
