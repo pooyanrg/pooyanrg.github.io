@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Pooyan Rahmanzadehgervi"
 title_separator          : "@"
-name                     : &name "Oguz Toragay"
+name                     : &name "Pooyan Rahmanazadehgervi"
 description              : &description "personal description"
 url                      : https://oguztoragay.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "oguztoragay/oguztoragay.github.io"
+repository               : "pooyanrg/pooyanrg.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -74,18 +74,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oguz Toragay"
+  name             : "Pooyan Rahmanzadehgervi"
   avatar           : "Mahmoudi.jpg"
-  bio              : "Assistant Professor in Mechanical, Robotics, and Industrial Engineering Department at Lawrence Technological University"
-  location         : "Detroit/MI"
-  employer         : "Lawrence Technological University"
-  googlescholar    : "https://scholar.google.com/citations?user=oloLqe4AAAAJ&hl=en"
-  email            : "otoragay@ltu.edu"
-  researchgate     : "https://www.researchgate.net/profile/Oguz-Toragay"
-  github           : "oguztoragay"
-  linkedin         : "oguztoragay"
-  orcid            : "https://orcid.org/0000-0003-0690-2198"
-  stackoverflow    : "39/oguz-toragay"
+  bio              : "Ph.D. Fellow in Computer Science"
+  location         : "Auburn, AL"
+  employer         : "Auburn Univeristy"
+  googlescholar    : "https://scholar.google.com/citations?user=XSkv_7EAAAAJ&hl=en"
+  email            : "pooyan.rmz@gmail.com"
+  researchgate     : 
+  github           : "pooyanrg"
+  linkedin         : "pooyan-rahmanzadehgervi-a29a73211"
+  orcid            : 
+  stackoverflow    : 
 
 # Reading Files
 include:
