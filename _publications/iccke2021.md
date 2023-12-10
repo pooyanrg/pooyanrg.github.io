@@ -1,7 +1,7 @@
 ---
 title: "Vision-Based Obstacle Avoidance in Drone Navigation using Deep Reinforcement Learning"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/iccke2021_1084
 excerpt: ''
 date: 2021-09-28
 venue: '11th International Conference on Computer Engineering and Knowledge (ICCKE)'
