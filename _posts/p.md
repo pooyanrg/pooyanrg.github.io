@@ -1,6 +1,6 @@
 ---
 title: "Posts"
-collection: teaching
+collection: publication
 permalink: /posts/
 ---
 
