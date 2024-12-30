@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Teaching Experience"
 collection: teaching
 type: "Undergraduate courses"
@@ -61,4 +61,4 @@ Classical industrial and systems engineering related to the design and evaluatio
 
 ## *Advanced Optimization Techniques (Graduate level course)*
 > *This has been my favorite class at LTU so far. I think the applications for these projects in industry are incredibly relevant and Dr. Toragay did a great job with making the homeworks relevant. The only thing I thought could be improved was a review of the key concepts from the later classes where the students presented/taught the class. It was difficult to get the correct information at times, due to some groups lack of grasping of the concepts as well as poor presentation skills.*
-<font color=red>Evaluation: 4.38/5</font>
+<font color=red>Evaluation: 4.38/5</font> -->
